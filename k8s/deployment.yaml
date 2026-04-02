@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: mpcrockdocker/devops-app:PLACEHOLDER
+        image: mpcrockdocker/devops-app:cbfc067a51ba0e9a73cff3aed936e09e42616ae9
         ports:
         - containerPort: 5000
